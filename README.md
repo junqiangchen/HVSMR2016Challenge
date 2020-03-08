@@ -12,11 +12,11 @@ The following dependencies are needed:
 
 ## How to Use
 
-**1¡¢Preprocess**
+**1Â¡Â¢Preprocess**
 * download MRI image data:http://segchd.csail.mit.edu/
 * generate patch(96x96x96) image and mask image:run the data3dprepare.py
 
-**2¡¢HVSMR Segmentation**
+**2Â¡Â¢HVSMR Segmentation**
 * the mutlidepthVnet3d model can find here:https://github.com/junqiangchen/VNetFamily
 * train and predict in the script of trainop.py and inferenceopt.py
 
@@ -32,4 +32,4 @@ The following dependencies are needed:
 * email: 1207173174@qq.com
 * Contact: junqiangChen
 * WeChat Number: 1207173174
-* WeChat Public number: ×îĞÂÒ½Ñ§Ó°Ïñ¼¼Êõ
+* WeChat Public number: æœ€æ–°åŒ»å­¦å½±åƒæŠ€æœ¯
