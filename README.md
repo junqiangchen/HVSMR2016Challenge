@@ -22,9 +22,10 @@ The following dependencies are needed:
 
 ## Result
 * test dataset segmentation result
-![](10.PNG)
+![](11.PNG)
 ![](13.PNG)
 ![](17.PNG)
+![](18.PNG)
 ![](19.PNG)
 
 ## Contact
