@@ -12,11 +12,11 @@ The following dependencies are needed:
 
 ## How to Use
 
-**1¡¢Preprocess**
+**1、Preprocess**
 * download MRI image data:http://segchd.csail.mit.edu/
 * generate patch(96x96x96) image and mask image:run the data3dprepare.py
 
-**2¡¢HVSMR Segmentation**
+**2、HVSMR Segmentation**
 * the mutlidepthVnet3d model can find here:https://github.com/junqiangchen/VNetFamily
 * train and predict in the script of trainop.py and inferenceopt.py
 
